@@ -79,14 +79,10 @@ The application supports two tiers of functionality: Basic and Pro. With the pro
     ```
 
 3.  **Install Dependencies:**
-    A `requirements.txt` would be ideal. Based on the project's imports, you'll likely need:
+    A `requirements.txt` is included. :
     ```
-    PyQt6
-    ultralytics>=8.0.0  # Or a specific version you are targeting
-    matplotlib
-    pandas
-    Pillow
-    PyYAML
+    pip install -r requirements.txt 
+    - this will install all the necessary packages listed in the file.
     ```
     You can install them using pip:
     ```bash
