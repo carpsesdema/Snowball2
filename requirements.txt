@@ -1,0 +1,7 @@
+PyQt6
+ultralytics>=8.0.0
+torch
+Pillow
+PyYAML
+matplotlib
+pandas
